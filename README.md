@@ -1,6 +1,9 @@
 # IntermediateAlgorithmScripting
 unhealthy-weaver
 
+Lizz Katsnelson & Lisa Bronwyn 
+Week 5 Learners Guild Project 
+
 ## Description
 
 Complete the intermediate algorithm scripting section here:
@@ -12,9 +15,6 @@ https://www.freecodecamp.com/map
 - [x] Completed Intermediate Algorithm Scripting 
 
 ### Required
-
-_Do not remove these specs - they are required for all goals_.
-
 - [x] The artifact produced is properly licensed, preferably with the [MIT license][mit-license].
 
 ## Stretch Goal
