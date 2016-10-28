@@ -28,8 +28,8 @@ _What are some appropriate quality objectives for this goal? These are statement
 
 - Quality rubric one: Code is readable
 
-## Solution 0- sumAll
-0- Sum all numbers in a range.
+## Sum All Numbers 
+Sum all numbers in a range.
 ```javascript
 function sumAll(arr) {
   
@@ -51,7 +51,7 @@ function sumAll(arr) {
 
 sumAll([1, 4]);
 ```
-## Solution 1- Diff Two Arrays
+## Diff Two Arrays
 1- Compare two arrays and return a new array with any items only found in one of the two given arrays, but not both. In other words, return the symmetric difference of the two arrays.
 
 ```javascript
@@ -78,7 +78,7 @@ for (var i=0; i < arr1.length; i++){
 
 diffArray([1, 2, 3, 5], [1, 2, 3, 4, 5]);
 ```
-## Solution 2- Roman Numeral Converter
+## Roman Numeral Converter
 2- Convert the given number into a roman numeral. 
 
 ```javascript
@@ -102,8 +102,8 @@ function convertToRoman(num) {
 convertToRoman(36);
 ```
 
-## Solution 3- Wherefore art thou
-3- Make a function that looks through an array of objects (first argument) and returns an array of all objects that have matching property and value pairs (second argument). Each property and value pair of the source object has to be present in the object from the collection if it is to be included in the returned array.
+## Wherefore art thou
+Make a function that looks through an array of objects (first argument) and returns an array of all objects that have matching property and value pairs (second argument). Each property and value pair of the source object has to be present in the object from the collection if it is to be included in the returned array.
 ```javascript
 function whatIsInAName(collection, source) {
   // What's in a name?
@@ -122,8 +122,8 @@ function whatIsInAName(collection, source) {
   });
 }
 ```
-## Solution 4- Search and Replace
-4- Perform a search and replace on the sentence using the arguments provided and return the new sentence.
+## Search and Replace
+Perform a search and replace on the sentence using the arguments provided and return the new sentence.
 
 ```javascript
 
@@ -142,8 +142,8 @@ function myReplace(str, before, after) {
   return str;
 }
 ```
-## Solution 5- Pig Latin
-5- Translate the provided string into pig latin.
+## Pig Latin
+ Translate the provided string into pig latin.
 
 ```javascript
 
@@ -169,8 +169,8 @@ function translatePigLatin(str) {
 translatePigLatin("consonant");
 ```
 
-## Solution 6 
-6- The DNA strand is missing the pairing element. Take each character, get its pair, and return the results as a 2d array.
+## DNA Pairing 
+The DNA strand is missing the pairing element. Take each character, get its pair, and return the results as a 2d array.
 ```javascript
 var DNA_PAIRS = {
   'A': 'T',
@@ -197,7 +197,7 @@ function pairElement(dnaString) {
 }
 ```
 
-## Solution 7- Missing Letters
+## Missing Letters
 
 Find the missing letter in the passed letter range and return it.
 
@@ -222,7 +222,7 @@ for(var i=0; i<str.length-1; i++) {
 
 fearNotLetter("abce");
 ```
-## Solution 8- Boo Who 
+## Boo Who 
 
 Check if a value is classified as a boolean primitive. Return true or false.
 
@@ -237,7 +237,7 @@ function booWho(bool) {
 booWho(null);
 ```
 
-## Solution 9- Sorted Union
+## Sorted Union
 Write a function that takes two or more arrays and returns a new array of unique values in the order of the original provided arrays.
  ```javascript
  
@@ -255,7 +255,7 @@ return newArr;
 uniteUnique([1, 3, 2], [5, 2, 1, 4], [2, 1]);
 ```
 
-## Solution 10- Convert HTML Entities
+## Convert HTML Entities
 Convert the characters &, <, >, " (double quote), and ' (apostrophe), in a string to their corresponding HTML entities.
 
 ```javascript
