@@ -28,3 +28,28 @@ _What are some appropriate quality objectives for this goal? These are statement
 
 - Quality rubric one: Code is readable
 
+## Solution 0- sumAll
+0- Sum all numbers in a range.
+```javascript
+function sumAll(arr) {
+  
+  var lower = 0;
+  var higher = 0;
+  if (arr[0] > arr[1]) {
+    lower = arr[1];
+    higher = arr[0];
+  } else {
+    lower = arr[0];
+    higher = arr[1];
+  }
+  var sum = 0;
+  for (var i= lower; i <= higher; i++){
+    sum += i;
+  }
+  return sum;
+}
+
+sumAll([1, 4]);
+```
+
+
