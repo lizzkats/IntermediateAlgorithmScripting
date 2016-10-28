@@ -20,7 +20,8 @@ https://www.freecodecamp.com/map
 ## Stretch Goal
 
 - [x] Supplement with TeamTreehouse Tutorials 
-- [x] Complete 1-2 Intermediate Front End Projects 
+- [x] Complete 1-2 Intermediate Front End Projects : Made a random quote generator
+http://codepen.io/lizzkats/full/rrgozm/
 
 ## Quality Rubric
 
