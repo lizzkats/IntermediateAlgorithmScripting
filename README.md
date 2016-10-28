@@ -9,7 +9,7 @@ https://www.freecodecamp.com/map
 
 ## Specifications
 
-- [ ] Completed Intermediate Algorithm Scripting 
+- [x] Completed Intermediate Algorithm Scripting 
 
 ### Required
 
@@ -19,8 +19,8 @@ _Do not remove these specs - they are required for all goals_.
 
 ## Stretch Goal
 
-- [ ] Supplement with TeamTreehouse Tutorials 
-- [ ] Complete 1-2 Intermediate Front End Projects 
+- [x] Supplement with TeamTreehouse Tutorials 
+- [x] Complete 1-2 Intermediate Front End Projects 
 
 ## Quality Rubric
 
