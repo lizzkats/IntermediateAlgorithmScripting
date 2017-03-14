@@ -1,5 +1,4 @@
 # IntermediateAlgorithmScripting
-unhealthy-weaver
 
 Lizz Katsnelson & Lisa Bronwyn 
 Week 5 Learners Guild Project 
@@ -31,8 +30,8 @@ _What are some appropriate quality objectives for this goal? These are statement
 
 ## Sum All Numbers 
 Sum all numbers in a range.
-```javascript
-function sumAll(arr) {
+
+```function sumAll(arr) {
   
   var lower = 0;
   var higher = 0;
